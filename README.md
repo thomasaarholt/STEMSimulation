@@ -1,6 +1,7 @@
 # STEM Simulation Software Overview
-An overview of available simulation softwares for Scanning Transmission Electron Microscopy
-Feel free to PR to update the list or change mistakes!
+An overview of available simulation softwares for Scanning Transmission Electron Microscopy.
+
+**Feel free to PR to update the list or change mistakes!**
 
 I spent a lot of time trying out the various STEM simulation softwares, so I thought I'd summarise my exploration here, in order to help future researchers in the field. There are probably mistakes here, so don't take this list as gospel!
 
