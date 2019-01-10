@@ -1,4 +1,4 @@
-# STEMSimulation
+# STEM Simulation Software Overview
 An overview of available simulation softwares for Scanning Transmission Electron Microscopy
 Feel free to PR to update the list or change mistakes!
 
@@ -16,4 +16,4 @@ If you intend to do STEM simulation to compare with experimental data, you are l
 | MULTEM      	| ✅   	|     	| ✅   	|         	| ✅   	| ✅           	| Matlab     	| Extremely many types of (S)TEM simulation, can add carbon to sample                  	|
 | STEMSalabim 	| ✅   	| ✅   	|     	|         	|     	| ✅           	|            	| The only software designed for CPU supercomputers                                    	|
 | MuSTEM      	| ✅   	|     	| ✅   	|         	|     	|             	|            	|                                                                                      	|
-| QSTEM       	|     	|     	|     	|         	|     	|             	| Python     	|                                                                                      	|
+| QSTEM       	| ✅   	|     	|     	|         	|     	|             	| Python     	|                                                                                      	|
