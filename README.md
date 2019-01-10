@@ -21,3 +21,12 @@ There are now a lot of STEM simulation softwares available. They are all extreme
 | STEMSalabim 	| ✅   	| ✅   	|     	|         	|     	| ✅           	|            	| The only software designed for CPU supercomputers                                    	|
 | MuSTEM      	| ✅   	|     	| ✅   	|         	|     	|             	|            	| Convenient for PACBED patterns                                                       	|
 | QSTEM       	| ✅   	|     	|     	|         	|     	|             	| Python     	|                                                                                      	|
+
+| Name | Debye-Waller<sup>✝</sup>|Is sample Z=0 hit first by beam?
+|----|----|----
+|Prismatic| RMS |Last
+|MULTEM | RMS | First
+|STEMSalabim | MS | First
+
+
+✝ Debye Waller can be expressed as the "Debye-Waller" value in Å, as the root-mean-square value in Å, or the mean square value in Å<sup>2</sup>.
