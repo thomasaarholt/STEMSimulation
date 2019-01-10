@@ -9,11 +9,13 @@ If you intend to do STEM simulation to compare with experimental data, you are l
 \* All simulations softwares currently use CUDA, which is only supported by NVidia GPUs. You probably want to use at least a GTX 900-series GPU.
 \*\*check with your university IT department - it is often possible to get free CPU time depending on your access
 
+There are now a lot of STEM simulation softwares available. They are all extremely impressive pieces of software, often building on each other. The following table summarizes a few aspects to make it easier for the new researcher to choose the software that is most applicable to their situation.
+
 | Name        	| CPU 	| MPI 	| GPU 	| CPU&GPU 	| GUI 	| Open-Source 	| Scripting? 	| Comments                                                                             	|
 |-------------	|-----	|-----	|-----	|---------	|-----	|-------------	|------------	|--------------------------------------------------------------------------------------	|
-| Dr Probe    	| ✅   	|     	|     	|         	|     	|             	|            	|                                                                                      	|
+| Dr Probe    	| ✅   	|     	| ✅   	| ✅       	|     	|             	|            	|                                                                                      	|
 | Prismatic   	| ✅   	|     	| ✅   	| ✅       	| ✅   	| ✅           	| Python     	| Uses an extremely fast algorithm, but large simulations can require much (>32GB) ram 	|
 | MULTEM      	| ✅   	|     	| ✅   	|         	| ✅   	| ✅           	| Matlab     	| Extremely many types of (S)TEM simulation, can add carbon to sample                  	|
 | STEMSalabim 	| ✅   	| ✅   	|     	|         	|     	| ✅           	|            	| The only software designed for CPU supercomputers                                    	|
-| MuSTEM      	| ✅   	|     	| ✅   	|         	|     	|             	|            	|                                                                                      	|
+| MuSTEM      	| ✅   	|     	| ✅   	|         	|     	|             	|            	| Convenient for PACBED patterns                                                       	|
 | QSTEM       	| ✅   	|     	|     	|         	|     	|             	| Python     	|                                                                                      	|
