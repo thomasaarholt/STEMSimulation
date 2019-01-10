@@ -6,8 +6,9 @@ I spent a lot of time trying out the various STEM simulation softwares, so I tho
 
 If you intend to do STEM simulation to compare with experimental data, you are likely going to need a computer more powerful than your average desktop computer. You will probably either want to use modern NVidia GPU* or a supercomputer**. However, the Prismatic software is much faster using their PRISM algorithm. However, for large simulations it can use a large amount of memory.
 
-\* All simulations softwares currently use CUDA, which is only supported by NVidia GPUs. You probably want to use at least a GTX 900-series GPU.
-\*\*check with your university IT department - it is often possible to get free CPU time depending on your access
+*\* All simulations softwares currently use CUDA, which is only supported by NVidia GPUs. You probably want to use at least a GTX 900-series GPU.*
+
+*\*\*check with your university IT department - it is often possible to get free CPU time depending on your access.*
 
 There are now a lot of STEM simulation softwares available. They are all extremely impressive pieces of software, often building on each other. The following table summarizes a few aspects to make it easier for the new researcher to choose the software that is most applicable to their situation.
 
