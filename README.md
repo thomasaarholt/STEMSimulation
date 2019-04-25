@@ -19,7 +19,7 @@ There are now a lot of STEM simulation softwares available. They are all extreme
 | [Prismatic](http://prism-em.com/)   	| ✅   	|     	| ✅   	| ✅       	| ✅   	| ✅           	| Python     	| Uses an extremely fast algorithm, but large simulations can require much (>32GB) ram 	|
 | [MULTEM](https://github.com/Ivanlh20/MULTEM)      	| ✅   	|     	| ✅   	|         	| ✅   	| ✅           	| Matlab     	| Extremely many types of (S)TEM simulation, can add carbon to sample                  	|
 | [STEMSalabim](http://www.stemsalabim.de/en/latest/) 	| ✅   	| ✅   	|     	|         	|     	| ✅           	|            	| The only software designed for CPU supercomputers                                    	|
-| [MuSTEM](https://github.com/HamishGBrown/MuSTEM)      	| ✅   	|     	| ✅   	|         	|     	|   ✅           	|            	| Convenient for PACBED patterns                                                       	|
+| [MuSTEM](https://github.com/HamishGBrown/MuSTEM)      	| ✅   	|     	| ✅   	|         	|     	|   ✅           	|            	| Convenient for PACBED patterns, more accurate phonon models                                                       	|
 | [QSTEM](https://github.com/QSTEM/QSTEM)       	| ✅   	|     	|     	|         	|     	|    ✅         	| Python     	|                                                                                      	|
 | [STEMcl](https://github.com/stemcl/stemcl)       	| ✅   	|     	| ✅    	|  ✅       	|     	|    ✅          	|      	|   Only GPU solution that supports non-NVidia GPUs                                                                                   	|
 
