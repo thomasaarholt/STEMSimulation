@@ -21,7 +21,10 @@ There are now a lot of STEM simulation softwares available. They are all extreme
 | STEMSalabim 	| ✅   	| ✅   	|     	|         	|     	| ✅           	|            	| The only software designed for CPU supercomputers                                    	|
 | MuSTEM      	| ✅   	|     	| ✅   	|         	|     	|             	|            	| Convenient for PACBED patterns                                                       	|
 | QSTEM       	| ✅   	|     	|     	|         	|     	|             	| Python     	|                                                                                      	|
+| STEMcl       	| ✅   	|     	| ✅    	|  ✅       	|     	|             	|      	|   Only GPU solution that supports non-NVidia GPUs                                                                                   	|
 
+
+There are some conventions that differ from software to software. The following clarifies the unit of the Debye-Waller factor (root-mean-square or mean-square) and whether it is the top or the bottom of the sample that is at Z=0.
 | Name | Debye-Waller<sup>✝</sup>|Is sample Z=0 hit first by beam?
 |----|----|----
 |Prismatic| RMS |Last
