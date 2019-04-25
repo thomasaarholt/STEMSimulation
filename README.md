@@ -15,13 +15,13 @@ There are now a lot of STEM simulation softwares available. They are all extreme
 
 | Name        	| CPU 	| MPI 	| GPU 	| CPU&GPU 	| GUI 	| Open-Source 	| Scripting? 	| Comments                                                                             	|
 |-------------	|-----	|-----	|-----	|---------	|-----	|-------------	|------------	|--------------------------------------------------------------------------------------	|
-| Dr Probe    	| ✅   	|     	| ✅   	| ✅       	|     	|    ✅          	|            	|                                                                                      	|
-| Prismatic   	| ✅   	|     	| ✅   	| ✅       	| ✅   	| ✅           	| Python     	| Uses an extremely fast algorithm, but large simulations can require much (>32GB) ram 	|
-| MULTEM      	| ✅   	|     	| ✅   	|         	| ✅   	| ✅           	| Matlab     	| Extremely many types of (S)TEM simulation, can add carbon to sample                  	|
-| STEMSalabim 	| ✅   	| ✅   	|     	|         	|     	| ✅           	|            	| The only software designed for CPU supercomputers                                    	|
-| MuSTEM      	| ✅   	|     	| ✅   	|         	|     	|   ✅           	|            	| Convenient for PACBED patterns                                                       	|
-| QSTEM       	| ✅   	|     	|     	|         	|     	|    ✅         	| Python     	|                                                                                      	|
-| STEMcl       	| ✅   	|     	| ✅    	|  ✅       	|     	|    ✅          	|      	|   Only GPU solution that supports non-NVidia GPUs                                                                                   	|
+| [Dr Probe](http://www.er-c.org/barthel/drprobe/index.html)    	| ✅   	|     	| ✅   	| ✅       	|     	|    ✅          	|            	|                                                                                      	|
+| [Prismatic](http://prism-em.com/)   	| ✅   	|     	| ✅   	| ✅       	| ✅   	| ✅           	| Python     	| Uses an extremely fast algorithm, but large simulations can require much (>32GB) ram 	|
+| [MULTEM](https://github.com/Ivanlh20/MULTEM)      	| ✅   	|     	| ✅   	|         	| ✅   	| ✅           	| Matlab     	| Extremely many types of (S)TEM simulation, can add carbon to sample                  	|
+| [STEMSalabim](http://www.stemsalabim.de/en/latest/) 	| ✅   	| ✅   	|     	|         	|     	| ✅           	|            	| The only software designed for CPU supercomputers                                    	|
+| [MuSTEM](https://github.com/HamishGBrown/MuSTEM)      	| ✅   	|     	| ✅   	|         	|     	|   ✅           	|            	| Convenient for PACBED patterns                                                       	|
+| [QSTEM](https://github.com/QSTEM/QSTEM)       	| ✅   	|     	|     	|         	|     	|    ✅         	| Python     	|                                                                                      	|
+| [STEMcl](https://github.com/stemcl/stemcl)       	| ✅   	|     	| ✅    	|  ✅       	|     	|    ✅          	|      	|   Only GPU solution that supports non-NVidia GPUs                                                                                   	|
 
 
 There are some conventions that differ from software to software. The following clarifies the unit of the Debye-Waller factor (root-mean-square or mean-square) and whether it is the top or the bottom of the sample that is at Z=0.
