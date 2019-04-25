@@ -15,12 +15,12 @@ There are now a lot of STEM simulation softwares available. They are all extreme
 
 | Name        	| CPU 	| MPI 	| GPU 	| CPU&GPU 	| GUI 	| Open-Source 	| Scripting? 	| Comments                                                                             	|
 |-------------	|-----	|-----	|-----	|---------	|-----	|-------------	|------------	|--------------------------------------------------------------------------------------	|
-| Dr Probe    	| ✅   	|     	| ✅   	| ✅       	|     	|             	|            	|                                                                                      	|
+| Dr Probe    	| ✅   	|     	| ✅   	| ✅       	|     	|    ✅          	|            	|                                                                                      	|
 | Prismatic   	| ✅   	|     	| ✅   	| ✅       	| ✅   	| ✅           	| Python     	| Uses an extremely fast algorithm, but large simulations can require much (>32GB) ram 	|
 | MULTEM      	| ✅   	|     	| ✅   	|         	| ✅   	| ✅           	| Matlab     	| Extremely many types of (S)TEM simulation, can add carbon to sample                  	|
 | STEMSalabim 	| ✅   	| ✅   	|     	|         	|     	| ✅           	|            	| The only software designed for CPU supercomputers                                    	|
-| MuSTEM      	| ✅   	|     	| ✅   	|         	|     	|             	|            	| Convenient for PACBED patterns                                                       	|
-| QSTEM       	| ✅   	|     	|     	|         	|     	|             	| Python     	|                                                                                      	|
+| MuSTEM      	| ✅   	|     	| ✅   	|         	|     	|   ✅           	|            	| Convenient for PACBED patterns                                                       	|
+| QSTEM       	| ✅   	|     	|     	|         	|     	|    ✅         	| Python     	|                                                                                      	|
 | STEMcl       	| ✅   	|     	| ✅    	|  ✅       	|     	|    ✅          	|      	|   Only GPU solution that supports non-NVidia GPUs                                                                                   	|
 
 
