@@ -5,7 +5,9 @@ An overview of available simulation softwares for Scanning Transmission Electron
 
 I spent a lot of time trying out the various STEM simulation softwares, so I thought I'd summarise my exploration here, in order to help future researchers in the field. There are probably mistakes here, so don't take this list as gospel!
 
-If you intend to do STEM simulation to compare with experimental data, you are likely going to need a computer more powerful than your average desktop computer. You will probably either want to use modern NVidia GPU* or a supercomputer**. However, the Prismatic software is much faster using their PRISM algorithm. However, for large simulations it can use a large amount of memory.
+If you intend to do STEM simulation to compare with experimental data, you are likely going to need a computer more powerful than your average desktop computer. You will probably either want to use modern NVidia GPU* or a supercomputer**. If you have one or more latest generation GPUs (like GTX 1080TI or RTX 2080TI), you will probably experience better performance on that than you will on supercomputers!
+
+If you are just getting started with STEM simulation, I highly recommend checking out [Prismatic](http://prism-em.com/). The PRISM algorithm it is based on is very fast, it has a reasonably intuitive GUI and *fantastic* documentation online.
 
 *\* Nearly all simulations softwares currently use CUDA, which is only supported by NVidia GPUs. The only exception is STEMcl, which can be run on any modern GPU, including Intel and AMD ones. When using NVidia, you probably want to use at least a GTX 900-series GPU.*
 
