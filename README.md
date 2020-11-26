@@ -24,7 +24,7 @@ There are now a lot of STEM simulation softwares available. They are all extreme
 | [MuSTEM](https://github.com/HamishGBrown/MuSTEM)      	| ✅   	|     	| ✅   	|         	|     	|   ✅           	|            	| Convenient for PACBED patterns, more accurate phonon models                                                       	|
 | [QSTEM](https://github.com/QSTEM/QSTEM)       	| ✅   	|     	|     	|         	|     	|    ✅         	| Python     	|                                                                                      	|
 | [STEMcl](https://github.com/stemcl/stemcl)       	| ✅   	|     	| ✅    	|  ✅       	|     	|    ✅          	|      	|   Only GPU solution that supports non-NVidia GPUs                                                                                   	|
-| [py_multislice](https://github.com/HamishGBrown/py_multislice)       	| ✅   	|     	| ✅    	|  ✅       	|     	|    ✅          	|      	|   Only GPU solution that supports non-NVidia GPUs                                                                                   	|
+| [py_multislice](https://github.com/HamishGBrown/py_multislice)       	| ✅   	|     	| ✅    	|  ✅       	|     	|    ✅          	|  Python    	|   Using PyTorch for acceleration                                                                                   	|
 
 
 
