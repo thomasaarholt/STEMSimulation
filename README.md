@@ -24,6 +24,8 @@ There are now a lot of STEM simulation softwares available. They are all extreme
 | [MuSTEM](https://github.com/HamishGBrown/MuSTEM)      	| ✅   	|     	| ✅   	|         	|     	|   ✅           	|            	| Convenient for PACBED patterns, more accurate phonon models                                                       	|
 | [QSTEM](https://github.com/QSTEM/QSTEM)       	| ✅   	|     	|     	|         	|     	|    ✅         	| Python     	|                                                                                      	|
 | [STEMcl](https://github.com/stemcl/stemcl)       	| ✅   	|     	| ✅    	|  ✅       	|     	|    ✅          	|      	|   Only GPU solution that supports non-NVidia GPUs                                                                                   	|
+| [py_multislice](https://github.com/HamishGBrown/py_multislice)       	| ✅   	|     	| ✅    	|  ✅       	|     	|    ✅          	|      	|   Only GPU solution that supports non-NVidia GPUs                                                                                   	|
+
 
 
 There are some conventions that differ from software to software. The following clarifies the unit of the Debye-Waller factor (root-mean-square or mean-square) and whether it is the top or the bottom of the sample that is at Z=0.
