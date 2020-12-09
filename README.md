@@ -25,7 +25,7 @@ There are now a lot of STEM simulation softwares available. They are all extreme
 | [QSTEM](https://github.com/QSTEM/QSTEM)       	| ✅   	|     	|     	|         	|     	|    ✅         	| Python     	|                                                                                      	|
 | [STEMcl](https://github.com/stemcl/stemcl)       	| ✅   	|     	| ✅    	|  ✅       	|     	|    ✅          	|      	|   Only GPU solution that supports non-NVidia GPUs                                                                                   	|
 | [py_multislice](https://github.com/HamishGBrown/py_multislice)       	| ✅   	|     	| ✅    	|  ✅       	|     	|    ✅          	|  Python    	|   Uses PyTorch for acceleration, based on prism algorithm                                                                                   	|
-| [abTEM](https://github.com/jacobjma/abTEM)       	| ✅   	|     	| ✅    	|  ✅       	|     	|    ✅          	|  Python >=3.6  	|   Python wrapper based on prism algorithm, uses CuPy gpu acceleration                                                                                    	|
+| [abTEM](https://github.com/jacobjma/abTEM)       	| ✅   	|     	| ✅    	|  ✅       	|     	|    ✅          	|  Python >=3.6  	|   Python wrapper based on prism algorithm, uses Numba for accelarted for CPU (may offer speed advantages over py_multislice for CPU only?) and CuPy (Nvidia Only) for GPU acceleration                                                                                    	|
 
 
 
